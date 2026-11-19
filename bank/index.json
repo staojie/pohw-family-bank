@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "version": "family-2026-11-19-v2",
+  "updatedAt": "2026-11-19",
+  "packs": [
+    {
+      "id": "family_grade5_math",
+      "grade": 5,
+      "edition": "*",
+      "subject": "数学",
+      "url": "pack_family_grade5_math.json",
+      "sha256": "f55e700e5bb30e8e1148ff763514bfe83c664b20bc62153440dadac26cf854af",
+      "count": 2388
+    },
+    {
+      "id": "family_grade5_english",
+      "grade": 5,
+      "edition": "*",
+      "subject": "英语",
+      "url": "pack_family_grade5_english.json",
+      "sha256": "bdc59d4743ad3c6edde5ff761dd18a4c5d7537b2c0eae7a4eafd47c38a82db8a",
+      "count": 1045
+    },
+    {
+      "id": "family_grade5_chinese",
+      "grade": 5,
+      "edition": "*",
+      "subject": "语文",
+      "url": "pack_family_grade5_chinese.json",
+      "sha256": "99e38e927f1f6806a7e3b41c6a5136bc62e91965fbed33e10ee9908c0c8f00e1",
+      "count": 1245
+    },
+    {
+      "id": "family_grade5_encyclopedia",
+      "grade": 5,
+      "edition": "*",
+      "subject": "百科",
+      "url": "pack_family_grade5_encyclopedia.json",
+      "sha256": "0fb7bc2d0d5af29aedfc47fb3cfb3f5b6714ea43e070a94addeaa6a4fc7a0787",
+      "count": 1000
+    }
+  ]
+}
